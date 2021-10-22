@@ -38,8 +38,9 @@ __In both situations we store the data in csv format__
  
  Useful commands:
    -[x] Command to clear all variables and imports in python interactive console
-        - \>>> globals().clear()
-        - cat /etc/services 
+        
+       - \>>> globals().clear()
+       - cat /etc/services 
     
 
 ### Conclusion
