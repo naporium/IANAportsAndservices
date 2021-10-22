@@ -1,6 +1,6 @@
 ### Motivation:
- Learning Web-Scrapping with Python 3 __(requests and beautiful soup 4)__
-  Training Python Scriptyng
+ Learning Web-Scrapping with Python 3 __(requests and beautiful soup 4)__<br>
+ Training Python Scripting
 
 ### Module description:
 
@@ -24,7 +24,7 @@ __In both situations we store the data in csv format__
  - [beautifull @PYPY](https://pypi.org/project/beautifulsoup4/)
  - [beautifull documentation @READTHEDOCS](https://readthedocs.org/projects/beautiful-soup-4/downloads/pdf/latest/)
  - [requests.org](https://docs.python-requests.org/en/master/)
- - [Scrapping tutorial @Digital Ocean](hhttps://www.digitalocean.com/community/tutorials/how-to-work-with-web-data-using-requests-and-beautiful-soup-with-python-3)
+ - [Scrapping tutorial Digital Ocean](hhttps://www.digitalocean.com/community/tutorials/how-to-work-with-web-data-using-requests-and-beautiful-soup-with-python-3)
  - [web-scraping-html-tables @towardDatascience](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
  - [lxml @PYPY](https://pypi.org/project/lxml/#history)
  - [lxml @lxml.de](https://lxml.de/)
