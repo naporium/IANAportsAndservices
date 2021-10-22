@@ -1,6 +1,6 @@
 ### Motivation:
  Learning Web-Scrapping with Python 3 __(requests and beautiful soup 4)__
-  Training Python Scriptyng
+ Training Python Scriptyng
 
 ### Module description:
 
