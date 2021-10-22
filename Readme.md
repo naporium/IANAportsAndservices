@@ -15,9 +15,9 @@ __In both situations we store the data in csv format__
 - [Page where to start to extract data from](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&page=1)
 
 ### Requirements:
-  -[x] pip install requests
-  -[x] pip beautifulsoup4 
-  -[x] pip install pandas
+ - [x] pip install requests
+ - [x] pip beautifulsoup4 
+ - [x] pip install pandas
 
 ### References:
  - [RHEL ports and services @MIT.EDU](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html)
@@ -37,7 +37,7 @@ __In both situations we store the data in csv format__
 
  
  Useful commands:
-   -[x] Command to clear all variables and imports in python interactive console
+  - [x] Command to clear all variables and imports in python interactive console
         
        - \>>> globals().clear()
        - cat /etc/services 
